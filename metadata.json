@@ -1,0 +1,7 @@
+{
+  "name": "AKG Live Brand Dashboard ",
+  "description": "A comprehensive dashboard for tracking sales representatives, orders, and market hierarchy performance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
